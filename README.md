@@ -1,0 +1,2 @@
+# kamus
+Program Kamus
